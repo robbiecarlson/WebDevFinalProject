@@ -1,0 +1,44 @@
+[
+    {
+      "id": "1h2GJKH12gkHG31h1H",
+      "name": "Pulp Fiction",
+      "score": 10,
+      "category": "Thriller"
+    },
+    {
+      "id": "2KJH3k2j3H1k2J3K1H",
+      "name": "La La Land",
+      "score": 9,
+      "category": "Romance"
+    },
+    {
+      "id": "3h2KJH3k2j3H1k2J3",
+      "name": "Schindler's List",
+      "score": 10,
+      "category": "Drama"
+    },
+    {
+      "id": "4k2J3K1H2GJKH12gk",
+      "name": "Step Brothers",
+      "score": 9,
+      "category": "Comedy"
+    },
+    {
+      "id": "5H1h1H2KJH3k2j3H",
+      "name": "To All the Boys I've Loved Before",
+      "score": 3,
+      "category": "Romance"
+    },
+    {
+      "id": "6H1k2J3K1H2GJKH1",
+      "name": "Five Nights at Freddy's",
+      "score": 2,
+      "category": "Horror"
+    },
+    {
+      "id": "7gkHG31h1H2KJH3k",
+      "name": "Barbie",
+      "score": 6,
+      "category": "Fantasy"
+    }
+  ]
