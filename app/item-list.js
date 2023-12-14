@@ -10,7 +10,7 @@ export default function ItemList({items}) {
     if (sortBy === "score") {
         sortedItems.sort((a, b) => parseFloat(b.score) - parseFloat(a.score));
     } else if (sortBy === "grouped category") {
-        items.sort((a, b) => a.category.localeCompare(b.category));
+        sortedItems.sort((a, b) => a.category.localeCompare(b.category));
     }
     const groupedItems = sortedItems.reduce((group, item) => {
         const category = item.category;
